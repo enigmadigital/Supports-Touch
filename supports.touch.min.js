@@ -3,9 +3,9 @@
 *
 * Detects touch support and adds appropriate classes to html and returns a JS object
 *
-* Copyright (c) 2013 Izilla
+* Copyright (c) 2013 Izilla Partners Pty Ltd
 *
-* http://izlla.com.au
+* http://www.izilla.com.au
 *
 * Licensed under the MIT license
 */
